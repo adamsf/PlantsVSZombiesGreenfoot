@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Backyard
+comment1.params=
+comment1.target=Backyard()
+comment2.params=
+comment2.target=void\ upSun()
+comment3.params=cost
+comment3.target=void\ spendSun(int)
+comment4.params=
+comment4.target=int\ getSuns()
+comment5.params=
+comment5.target=void\ generate()
+comment6.params=
+comment6.target=void\ act()
+numComments=7

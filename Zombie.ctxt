@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Zombie
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Zombie\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=hp\ img\ eatImg
+comment1.target=Zombie(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ eating()
+comment4.params=
+comment4.target=boolean\ frozen()
+comment5.params=eatGif
+comment5.target=void\ eat(GifImage)
+numComments=6

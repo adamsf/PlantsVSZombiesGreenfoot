@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Collector
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Collector\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=health\ suns\ cost
+comment1.target=Collector(int,\ int,\ int)
+comment2.params=between
+comment2.target=void\ produce(int)
+numComments=3

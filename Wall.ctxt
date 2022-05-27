@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Wall
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Wall\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=health\ cost
+comment1.target=Wall(int,\ int)
+comment2.params=a\ b\ c\ phase1\ phase2
+comment2.target=void\ crack(GifImage,\ GifImage,\ GifImage,\ int,\ int)
+numComments=3
